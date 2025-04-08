@@ -4,7 +4,11 @@
 - 🌱 I’m currently learning **Embedded system, VLSI, firmware development**
 
 Bring Your ldea to Life! Whether it's a concept or a fully-fledged plan, we'll turn your vision into reality. Our expertise spans hardware, software, and everything in between. From Android apps to websites, we offer comprehensive solutions to meet your needs.
-
+PCB Assembly & Fabrication 
+Prototyping & Mass Production 
+End-to-End Product Development 
+Quality Testing & Compliance
+We take pride in supporting startups, SMES, and enterprises with precision, reliability, and speed. Whether you're working on loT devices, smart wearables, industrial automation, or any other electronics, we've got you covered! Let's collaborate and turn your ideas into high-quality electronic products.
 Get in touch with us today! 
 DM us or email: ajaygautam1919@gmail.com
 
